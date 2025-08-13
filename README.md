@@ -1,4 +1,4 @@
-# Claude's cofi-shop
+# Claude's CoFI Shop
 
 The purpose of this repository is to keep the information Claude has gatherd while 
 working across cofi, cofi-examples and cofi-resources in one space. This means 
