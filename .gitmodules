@@ -1,0 +1,9 @@
+[submodule "cofi"]
+	path = cofi
+	url = https://github.com/inlab-geo/cofi
+[submodule "cofi-examples"]
+	path = cofi-examples
+	url = https://github.com/inlab-geo/cofi-examples
+[submodule "cofi-resources"]
+	path = cofi-resources
+	url = https://github.com/inlab-geo/cofi-resources
