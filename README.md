@@ -7,5 +7,9 @@ future Claude instances can use this information...
 Submodules are used to link to the three repositories cofi, cofi-examples 
 and cofi-resources.
 
+Some observations:
+
+- Providing Claude with working examples solving a similar problem and links to documentation while encoaruging it to think hard and plan seem a good approach to come up with a good strategy to add features.
+
 https://www.anthropic.com/claude-code
 
