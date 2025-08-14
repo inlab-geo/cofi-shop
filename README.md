@@ -9,7 +9,7 @@ and cofi-resources.
 
 Some observations:
 
-- Providing Claude with working examples solving a similar problem and links to documentation while encoaruging it to think hard and plan seem a good approach to come up with a good strategy to add features.
+- Providing Claude with working examples solving a similar problem, links to documentation while encouraging it to think hard and ask questions, with an overall focus to make a plan seem a good approach to come up with a good strategy to add features.
 
 https://www.anthropic.com/claude-code
 
