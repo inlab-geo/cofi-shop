@@ -11,7 +11,7 @@ Submodules are used to link to the four repositories cofi, cofi-examples, cofi-r
 - Providing Claude with working examples solving a similar problem, links to documentation while encouraging it to think hard and ask questions, with an overall focus to make a plan seem a good approach to come up with a good strategy to add features.
 - Claude benefits from examples  - A good prompt is to point out how something should have been done and ask for the underlying pattern to be identified and then applied to a related task.
 - When working with Claude in the CoFI Shop it is good practice to install cofi using `pip install -e .` from within the cofi submoduel.
-
+- An example for fixing a logging issue with the MEALPY integration is given in `claude_conversation_mealpy_logging_fix.md`
 ## More information about Claude Code
 
 https://www.anthropic.com/claude-code

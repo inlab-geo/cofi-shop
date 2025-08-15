@@ -109,3 +109,4 @@ For detailed technical information, algorithm implementations, and research note
 
 ### Key Documents
 - `cofi_model_handling_and_spatial_regularization.md` - Comprehensive analysis of how CoFI handles model vectors, the separation between optimization and spatial regularization, and the two-level architecture design
+- `claude_conversation_mealpy_logging_fix.md` - Documentation of mealpy integration and logging improvements
