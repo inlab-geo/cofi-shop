@@ -7,3 +7,6 @@
 [submodule "cofi-resources"]
 	path = cofi-resources
 	url = https://github.com/inlab-geo/cofi-resources
+[submodule "espresso"]
+	path = espresso
+	url = https://github.com/inlab-geo/espresso.git
